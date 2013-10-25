@@ -1,0 +1,18 @@
+
+.networking {
+	text-align: center;
+	width: 1500px;
+	max-width: 100%;
+	height:auto;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	display: inline;
+}
+
+.connect {
+	text-align:center;
+	padding-left: .25%;
+	padding-right: .25%;
+	max-width: 10%;
+	height:auto;
+	width: 1500px;
