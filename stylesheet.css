@@ -18,14 +18,6 @@ body {
 	color: #87C387;
 }
 
-.container {
-	margin-left: 7%;
-	margin-right: 7%;
-	width: 76%;
-	display: block;
-
-}
-
 p, ul, h3, footer, h2 {
 	font-family: Libre Baskerville, serif;
 }
