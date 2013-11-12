@@ -291,7 +291,6 @@ h4 {
 	}
 	
 	.gallery {
-	text-align:left;
 	max-width:80%;
 	width: 300px;
 	height: auto;
@@ -299,7 +298,6 @@ h4 {
 	}
 	
 	.photocontainer {
-	text-align: left;
 	display: block;
 	}
 }
