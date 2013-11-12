@@ -195,10 +195,9 @@ h4 {
 	}	
 	
 	.container {
-	margin-left: 3%;
-	margin-right: 3%;
 	width: 94%;
 	display: block;
+	text-align: center;
 	}
 	
 	.gallery {
