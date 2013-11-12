@@ -26,14 +26,6 @@ body {
 
 }
 
-.photocontainer {
-	text-align: center;
-	/*margin-left: 7%;
-	margin-right: 7%;
-	width: 76%;*/
-	display: block;
-}
-
 p, ul, h3, footer, h2 {
 	font-family: Libre Baskerville, serif;
 }
@@ -230,6 +222,11 @@ h4 {
 	height: auto;
 	margin: 2%;
 	}
+	
+	.photocontainer {
+	text-align: center;
+	display: block;
+	}
 }
 
 /*media query laptop and desktop*/
@@ -267,6 +264,11 @@ h4 {
 	height: auto;
 	margin: 2%;
 	}
+	
+	.photocontainer {
+	text-align: center;
+	display: block;
+	}
 }
 
 /*media query large screens*/
@@ -302,5 +304,10 @@ h4 {
 	width: 300px;
 	height: auto;
 	margin: .5%;
+	}
+	
+	.photocontainer {
+	text-align: left;
+	display: block;
 	}
 }
