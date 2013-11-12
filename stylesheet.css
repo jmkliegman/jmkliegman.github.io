@@ -76,14 +76,6 @@ body {
 	background-color: white;
 }
 
-.name a {
-	color: #5dae5d;
-}
-
-.name a:hover {
-	color: #87C387;
-}
-
 
 .bio {
 	margin-left: 10%;
