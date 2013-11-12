@@ -192,14 +192,6 @@ h4 {
 	font-family: Roboto Slab, serif;
 }
 
-.gallery {
-	text-align:center;
-	max-width:80%;
-	width: 300px;
-	height: auto;
-	margin: 2%;
-}
-
 .intro {
 	display: block;
 }
@@ -230,6 +222,14 @@ h4 {
 	width: 94%;
 	display: block;
 	}
+	
+	.gallery {
+	text-align:center;
+	max-width:80%;
+	width: 300px;
+	height: auto;
+	margin: 2%;
+	}
 }
 
 /*media query laptop and desktop*/
@@ -259,6 +259,14 @@ h4 {
 	width: 76%;
 	display: block;
 	}
+	
+	.gallery {
+	text-align:center;
+	max-width:80%;
+	width: 300px;
+	height: auto;
+	margin: 2%;
+	}
 }
 
 /*media query large screens*/
@@ -286,5 +294,13 @@ h4 {
 	margin-right: 7%;
 	width: 76%;
 	display: block;
-}
+	}
+	
+	.gallery {
+	text-align:left;
+	max-width:80%;
+	width: 300px;
+	height: auto;
+	margin: .5%;
+	}
 }
