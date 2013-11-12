@@ -177,6 +177,10 @@ h4 {
 	margin-bottom: -3%;
 	width: 90%;
 	}
+	
+	.name {
+		text-align: center;
+	}
 
 	.bio {
 	margin-left: 10%;
@@ -257,6 +261,10 @@ h4 {
 	text-align: center;
 	display: block;
 	}
+	
+	.name {
+		text-align: center;
+	}
 }
 
 /*media query large screens*/
@@ -270,6 +278,10 @@ h4 {
 	text-decoration: none;
 	display: block;
 	margin-bottom: 2%;
+	}
+	
+	.name {
+		text-align: center;
 	}
 
 	.bio {
