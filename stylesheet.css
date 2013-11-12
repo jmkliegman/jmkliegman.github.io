@@ -216,7 +216,7 @@ h4 {
 
 @media only screen and (min-width: 460px) and (max-width: 1699px) {
 	
-	.name {
+	h1.name {
 	text-align: center;
 	font-size:3em;
 	font-family: Roboto Slab, serif;
@@ -263,7 +263,7 @@ h4 {
 
 @media only screen and (min-width: 1700px) {
 	
-	.name {
+	h1.name {
 	text-align: center;
 	font-size:3em;
 	font-family: Roboto Slab, serif;
