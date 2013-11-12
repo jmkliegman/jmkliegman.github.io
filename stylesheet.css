@@ -196,6 +196,8 @@ h4 {
 	
 	.container {
 	width: 94%;
+	margin-left: 3%;
+	margin-right: 3%;
 	display: block;
 	text-align: center;
 	}
@@ -241,6 +243,8 @@ h4 {
 	
 	.container {
 	width: 76%;
+	margin-left: 7%;
+	margin-right: 7%;
 	display: block;
 	}
 	
