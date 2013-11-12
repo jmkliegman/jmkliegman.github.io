@@ -120,6 +120,7 @@ ul li a:hover {
 ul li a:visited {
 	color: #5C5CAD;
 }
+
 .sections {
 	text-align: center;
 	font-family: Roboto Slab, serif;
@@ -173,7 +174,6 @@ h4 {
 	font-family: Roboto Slab, serif;
 	text-decoration: none;
 	display: block;
-	width: 90%;
 	}
 	
 	.name {
