@@ -117,13 +117,6 @@ body {
 	color: #87C387;
 }
 
-.container {
-	margin-left: 7%;
-	margin-right: 7%;
-	width: 76%;
-	display: block;
-}
-
 
 .bio {
 	margin-left: 10%;
@@ -237,8 +230,15 @@ h4 {
 	.bio p {
 	text-align: center;
 	font-size: 3em;
-	line-height: 180%;
+	line-height: 170%;
 	}	
+	
+	.container {
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 94%;
+	display: block;
+	}
 }
 
 /*media query laptop and desktop*/
@@ -260,7 +260,14 @@ h4 {
 	text-align: center;
 	font-size: 2em;
 	line-height: 150%;
-	}	
+	}
+	
+	.container {
+	margin-left: 7%;
+	margin-right: 7%;
+	width: 76%;
+	display: block;
+	}
 }
 
 /*media query large screens*/
@@ -282,5 +289,11 @@ h4 {
 	font-size: 2em;
 	line-height: 150%;
 	}	
-
+	
+	.container {
+	margin-left: 7%;
+	margin-right: 7%;
+	width: 76%;
+	display: block;
+}
 }
