@@ -100,15 +100,6 @@ body {
 	background-color: white;
 }
 
-.name {
-	text-align:center;
-	font-size:3em;
-	font-family: Roboto Slab, serif;
-	text-decoration: none;
-	margin: -4%;
-	display: block;
-}
-
 .name a {
 	color: #5dae5d;
 }
