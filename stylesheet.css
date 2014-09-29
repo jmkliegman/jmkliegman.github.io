@@ -3,7 +3,7 @@ body {
 }
 
 .name a {
-	color: #5dae5d;
+	color: #5dae5d;h
 }
 
 .name a:hover {
@@ -228,7 +228,7 @@ h4 {
 @media only screen and (min-width: 460px) and (max-width: 1437px) {
 	
 	h1 {
-	font-size:3em;
+	font-size:4em;
 	font-family: Roboto Slab, serif;
 	text-decoration: none;
 	display: block;
@@ -278,7 +278,7 @@ h4 {
 @media only screen and (min-width: 1438px) {
 	
 	h1 {
-	font-size:3em;
+	font-size:4em;
 	font-family: Roboto Slab, serif;
 	text-decoration: none;
 	display: block;
