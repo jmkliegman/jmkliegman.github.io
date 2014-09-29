@@ -133,6 +133,10 @@ ul li a:visited {
 	color: black;
 }
 
+.sections h2 {
+	font-family: Roboto Slab, serif;
+}
+
 .sections a:hover {
 	color: #666666;
 }
