@@ -231,6 +231,7 @@ h4 {
 	font-size:4em;
 	font-family: Roboto Slab, serif;
 	text-decoration: none;
+<<<<<<< HEAD
 	display: block;
 	}
 
@@ -266,6 +267,43 @@ h4 {
 	text-align: center;
 	display: block;
 	}
+=======
+	display: block;
+	}
+
+	.bio {
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+
+	}
+
+	.bio p {
+	text-align: center;
+	font-size: 2em;
+	line-height: 150%;
+	}
+	
+	.container {
+	width: 76%;
+	margin-left: 7%;
+	margin-right: 7%;
+	display: block;
+	}
+	
+	.gallery {
+	text-align:center;
+	max-width:80%;
+	width: 300px;
+	height: auto;
+	margin: 2%;
+	}
+	
+	.photocontainer {
+	text-align: center;
+	display: block;
+	}
+>>>>>>> ad1fd6319c5d2e7dd794c941da1eb91bff9d9a14
 	
 	.name {
 		text-align: center;
@@ -320,4 +358,8 @@ h4 {
 	.photocontainer {
 	display: block;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ad1fd6319c5d2e7dd794c941da1eb91bff9d9a14
