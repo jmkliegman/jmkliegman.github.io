@@ -50,6 +50,8 @@ ul li a:visited {
 
 .sections a {
 	color: black;
+	background-color: white;
+	border-bottom: 3px double;
 }
 
 .sections a:hover {
