@@ -313,7 +313,7 @@ h4 {
 
 /*media query large screens*/
 
-@media only screen and (min-width: 1438px) and (max-width: 3000px) {
+@media only screen and (min-width: 1438px) {
 	
 	h1 {
 	font-size:4em;
