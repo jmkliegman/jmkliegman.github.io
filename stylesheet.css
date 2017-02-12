@@ -317,7 +317,8 @@ h4 {
 	font-family: Roboto Slab, serif;
 	text-decoration: none;
 <<<<<<< HEAD
-	display: }
+	display: block; }
+
 	
 	.name {
 		text-align: center;
