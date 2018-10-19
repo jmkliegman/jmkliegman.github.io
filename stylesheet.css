@@ -173,7 +173,7 @@ h4 {
 
 /*media query phone*/
 
-@media only screen and (max-width: 399px) {
+@media only screen and (max-width: 459px) {
 	
 	h1 {
 	font-size:2em;
@@ -204,8 +204,7 @@ h4 {
 	width: 94%;
 	margin-left: 3%;
 	margin-right: 3%;
-	display: block;
-	text-align: center;
+	display: block;s
 	}
 	
 	.gallery {
@@ -225,7 +224,7 @@ h4 {
 
 /*media query laptop and desktop*/
 
-@media only screen and (min-width: 400px) and (max-width: 1437px) {
+@media only screen and (min-width: 460px) and (max-width: 1437px) {
 	
 	h1 {
 	font-size:4em;
