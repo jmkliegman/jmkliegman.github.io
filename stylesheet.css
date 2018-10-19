@@ -173,7 +173,7 @@ h4 {
 
 /*media query phone*/
 
-@media only screen and (max-width: 459px) {
+@media only screen and (max-width: 399px) {
 	
 	h1 {
 	font-size:2em;
@@ -225,7 +225,7 @@ h4 {
 
 /*media query laptop and desktop*/
 
-@media only screen and (min-width: 460px) and (max-width: 1437px) {
+@media only screen and (min-width: 400px) and (max-width: 1437px) {
 	
 	h1 {
 	font-size:4em;
