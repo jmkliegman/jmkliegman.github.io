@@ -86,8 +86,8 @@ body {
 }
 
 .bio p {
-	font-size: 2em;
-	line-height: 150%;
+	font-size: 1em;
+	line-height: 100%;
 }
 
 p, ul, h3, footer, h2, h4 {
