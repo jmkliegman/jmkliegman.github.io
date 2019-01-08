@@ -86,8 +86,8 @@ body {
 }
 
 .bio p {
-	font-size: .5em;
-	line-height: 50%;
+	font-size: 1em;
+	line-height: 100%;
 }
 
 p, ul, h3, footer, h2, h4 {
@@ -194,8 +194,8 @@ h4 {
 	}
 
 	.bio p {
-	font-size: .5em;
-	line-height: 50%;
+	font-size: 1em;
+	line-height: 100%;
 	}	
 	
 	.container {
@@ -240,8 +240,8 @@ h4 {
 	}
 
 	.bio p {
-	font-size: .5em;
-	line-height: 50%;
+	font-size: 1em;
+	line-height: 100%;
 	}
 	
 	.container {
@@ -272,8 +272,8 @@ h4 {
 	}
 
 	.bio p {
-	font-size: .5em;
-	line-height: 50%;
+	font-size: 1em;
+	line-height: 100%;
 	}
 	
 	.container {
@@ -328,8 +328,8 @@ h4 {
 	}
 
 	.bio p {
-	font-size: .5em;
-	line-height: 50%;
+	font-size: 1em;
+	line-height: 100%;
 	}	
 	
 	.container {
