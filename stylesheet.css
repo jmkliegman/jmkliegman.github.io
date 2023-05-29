@@ -16,7 +16,7 @@ body {
 	color: #87C387;
 }
 
-p, ul, h3, footer, h2 {
+p, ul, h3, footer, {
 	font-family: Source Sans Pro, serif;
 }
 
@@ -165,6 +165,11 @@ img.connect {
 footer {
 	font-size: .75em;
 	text-align: center;
+}
+
+h2 {
+	font-size: 1.6em;
+	font-family: Roboto Slab, serif;
 }
 
 h4 {
