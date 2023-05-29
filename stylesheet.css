@@ -172,6 +172,18 @@ h4 {
 	font-family: Roboto Slab, serif;
 }
 
+h4 a:link {
+	color: #5dae5d;
+}
+
+p a:hover {
+	color: #87C387;
+}
+
+p a:visited {
+	color: #5C5CAD;
+}
+
 .intro {
 	display: block;
 }
