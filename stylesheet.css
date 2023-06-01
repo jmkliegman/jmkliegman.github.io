@@ -191,6 +191,8 @@ p a:visited {
 
 .intro {
 	display: block;
+	}
+
 }
 
 /*media query phone*/
@@ -240,9 +242,6 @@ p a:visited {
 	text-align: center;
 	display: block;
 	}
-
-
-}
 
 	
 }
