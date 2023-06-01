@@ -378,7 +378,7 @@ p a:visited {
   width: 15%;
   max-width: 500px;
   height: auto;
-  float: left;
+  align: left;
   padding: 0 10px 0 0;}
 }
 
