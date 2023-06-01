@@ -240,6 +240,15 @@ p a:visited {
 	text-align: center;
 	display: block;
 	}
+
+	.responsive {
+  width: 30%;
+  max-width: 500px;
+  height: auto;
+  align: left;
+  padding: 0 10px 0 0;}
+}
+
 	
 }
 
@@ -324,6 +333,14 @@ p a:visited {
 		text-align: center;
 		margin-bottom: -1%;
 	}
+
+	.responsive {
+  width: 15%;
+  max-width: 500px;
+  height: auto;
+  align: left;
+  padding: 0 10px 0 0;}
+}
 }
 
 /*media query large screens*/
@@ -372,13 +389,13 @@ p a:visited {
 	.photocontainer {
 	display: block;
 	}
-}
 
-.responsive {
-  width: 15%;
+	.responsive {
+  width: 10%;
   max-width: 500px;
   height: auto;
   align: left;
   padding: 0 10px 0 0;}
 }
+
 
