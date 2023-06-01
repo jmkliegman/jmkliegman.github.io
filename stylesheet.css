@@ -376,7 +376,9 @@ p a:visited {
 
 .responsive {
   width: 15%;
-  max-width: 600px;
+  max-width: 500px;
   height: auto;
+  float: left;
+  padding: 0 10px 0 0;}
 }
 
