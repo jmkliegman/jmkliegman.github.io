@@ -237,12 +237,16 @@ p a:visited {
 	height: auto;
 	margin: 2%;
 	}
-	
+
+	.headshot {
+
+	max-width: 90%;
+	}
+
 	.photocontainer {
 	text-align: center;
 	display: block;
 	}
-
 	
 }
 
@@ -283,6 +287,11 @@ p a:visited {
 	height: auto;
 	margin: 2%;
 	}
+
+ 	.headshot {
+ 	float:right;
+	max-width: 18%;
+	}
 	
 	.photocontainer {
 	text-align: center;
@@ -311,16 +320,15 @@ p a:visited {
 	.gallery {
 	text-align:center;
 	max-width:80%;
-	width: 300px;
+	width:.25em;
 	height: auto;
 	margin: 2%;
 	}
-	
+
 	.photocontainer {
 	text-align: center;
 	display: block;
 	}
-
 	
 	.name {
 		text-align: center;
@@ -371,7 +379,12 @@ p a:visited {
 	height: auto;
 	margin: .5%;
 	}
-	
+
+	.headshot {
+ 	float:right;
+	max-width: 18%;
+	}
+
 	.photocontainer {
 	display: block;
 	}
